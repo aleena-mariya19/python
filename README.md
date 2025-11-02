@@ -27,7 +27,7 @@ To document and share my Python learning journey — including:
 
 ## 🧠 Tools & Environment
 
-- **Language:** Python 3.x  
+- **Language:** Python  
 - **IDE:** Visual Studio Code / Jupyter Notebook / Google Colab  
 
 
