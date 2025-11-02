@@ -28,8 +28,6 @@ To document and share my Python learning journey — including:
 
 - **Language:** Python 3.x  
 - **IDE:** Visual Studio Code / Jupyter Notebook / Google Colab  
-)
 
----
 
 
