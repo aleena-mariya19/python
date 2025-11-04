@@ -27,8 +27,8 @@
 
 ## 🧠 Tools & Environment
 
-- **Language:** Python  
-- **IDE:** Visual Studio Code / Google Colab  
+- **Language:** - Python  
+- **IDE:**  - Visual Studio Code / Google Colab  
 
 
 
