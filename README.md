@@ -18,7 +18,7 @@
 
 ## 🎯 Objective
 
-To document and share my Python learning journey — including:
+*To document and share my Python learning journey — including:*
 - Coding practice and logical problem solving  
 - Implementation of small real-world use cases  
 - Continuous improvement in Python fundamentals and libraries
