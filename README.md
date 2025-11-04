@@ -7,11 +7,11 @@
 
 ## 📂 Contents
 
-- **Basic Python Programs:** variables, loops, conditionals, and functions  
+- **Basic Python Programs:**  - variables, loops, conditionals, and functions  
   
-- **File Handling & Strings:** reading/writing files, string manipulation  
+- **File Handling & Strings:** - reading/writing files, string manipulation  
   
-- **Applied Questions:** logical problems, small projects, and notebook exercises  
+- **Applied Questions:**  - logical problems, small projects, and notebook exercises  
 
 
 ---
